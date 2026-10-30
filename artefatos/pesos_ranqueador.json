@@ -1,0 +1,28 @@
+{
+ "lambda_l2": 1.0,
+ "pesos": {
+  "lex_q": 1.0547,
+  "lex_a_conf": 0.5714,
+  "lex_a_lix": -0.1449,
+  "titulo_a": 0.514,
+  "cos_q": 2.3156,
+  "cos_a": -0.405,
+  "art_exp": 0.8553,
+  "art_inf": 0.1453,
+  "lei": 1.2916,
+  "disc": 0.87,
+  "lex_filho": 0.7059,
+  "lex_pai": 0.2811,
+  "cos_filho": 1.0053,
+  "nivel1": -0.0031,
+  "knn_q": 1.3048,
+  "knn_a": 0.7175,
+  "lex_f": 0.2775,
+  "cos_f": 1.4042,
+  "geral_lex": -0.17,
+  "nulo": 3.3618,
+  "nulo_disc": -0.1281,
+  "nulo_knn": 0.3789,
+  "nulo_knn_a": 0.1117
+ }
+}

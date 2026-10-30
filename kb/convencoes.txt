@@ -1,0 +1,13 @@
+# Convenções da equipe observadas na folha-verdade (decisão manual, ver relatório §b).
+# Quando o sistema escolhe o nó "de", publica/sugere o nó "para" como central e mantém "de" como extra.
+#
+# Juizado Especial Criminal: as 5 questões de Juizado da folha (Q0018, Q0216, Q0275, Q0290, Q0304)
+# têm como central Legislação Especial > Juizado Especial Criminal (4701); os nós de Processo Penal
+# aparecem, quando aparecem, só como extras.
+#
+# formato: de | para | evidência
+5539 | 4701 | Procedimento Sumaríssimo -> JECrim (5/5 na folha)
+5540 | 4701 | Competência dos JECrim -> JECrim (5/5 na folha)
+5541 | 4701 | Transação Penal -> JECrim (5/5 na folha)
+5542 | 4701 | Suspensão Condicional do Processo -> JECrim (5/5 na folha)
+5569 | 4701 | Recursos nos Juizados -> JECrim (5/5 na folha)

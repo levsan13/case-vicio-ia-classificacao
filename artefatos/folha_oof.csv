@@ -1,0 +1,101 @@
+id,decisao_oof,tema_oof,grupo,confianca,r_assunto,rotulo_central,rotulo_fora,certo_se_publicado
+Q0002,revisar,Criminologia > Processos de Criminalização e Cifras Criminais > Criminalização Primária e Secundária,G3,0.579,0.49,,1,0
+Q0003,revisar,Processo Penal > Recursos em Espécies > Recurso em sentido estrito (RESE),G3,0.414,0.11,Processo Penal > Recursos em Espécies,0,1
+Q0005,publicar,Penal > Teoria da Pena > Penas Privativas de Liberdade,G1,0.901,0.75,Penal > Teoria da Pena,0,1
+Q0012,revisar,Processo Penal > Recursos em Espécies,G3,0.723,0.18,Processo Penal > Recursos em Espécies > Apelação,0,1
+Q0017,revisar,Processo Penal > Nulidades,G3,0.570,0.18,,1,0
+Q0018,revisar,Direito Penal - Legislação Especial > Juizado Especial Criminal,G3,0.638,0.48,Direito Penal - Legislação Especial > Juizado Especial Criminal,0,1
+Q0023,publicar,Processo Penal > Procedimento do Tribunal do Júri,G1,0.943,0.75,Processo Penal > Procedimento do Tribunal do Júri,0,1
+Q0028,revisar,"Processo Penal > Procedimento do Tribunal do Júri > Impronúncia, Desclassificação, Absolvição Sumária e Pronúncia",G3,0.483,0.13,"Processo Penal > Procedimento do Tribunal do Júri > Impronúncia, Desclassificação, Absolvição Sumária e Pronúncia",0,1
+Q0031,publicar,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,G1,0.894,0.91,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,0,1
+Q0034,revisar,Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus,G3,0.545,0.60,Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus,0,1
+Q0035,publicar,Direito Penal - Legislação Especial > Terrorismo,G2,0.895,,Direito Penal - Legislação Especial > Terrorismo,0,1
+Q0039,revisar,Direito Penal - Legislação Especial > Crimes previstos no CDC,G3,0.532,0.15,,1,0
+Q0040,revisar,Processo Penal > Procedimento do Tribunal do Júri,G3,0.602,0.33,Processo Penal > Recursos em Espécies > Apelação,0,1
+Q0041,publicar,Penal > Medida de Segurança,G1,0.915,0.75,Penal > Medida de Segurança,0,1
+Q0043,revisar,Penal > Teoria da Pena,G3,0.963,0.54,,1,0
+Q0049,publicar,Penal > Dos Crimes Contra a Vida,G1,0.887,0.75,"Penal > Dos Crimes Contra a Vida > Induzimento, Instigação ou Auxílio ao Suicídio",0,1
+Q0052,revisar,Direito Penal - Legislação Especial > Lei de Execução Penal,G3,0.504,0.54,Direito Penal - Legislação Especial > Lei de Execução Penal,0,1
+Q0057,revisar,Penal > Iter Criminis,G3,0.831,0.66,Penal > Iter Criminis,0,1
+Q0058,revisar,Criminologia > Processos de Criminalização e Cifras Criminais,G3,0.376,0.45,Criminologia > Vitimologia,0,1
+Q0060,publicar,Penal > Dos Crimes Contra a Administração Pública,G1,0.935,0.78,Penal > Dos Crimes Contra a Administração Pública,0,1
+Q0061,revisar,Direito Penal - Legislação Especial > Lei de Execução Penal,G3,0.609,0.54,Direito Penal - Legislação Especial > Lei de Execução Penal,0,1
+Q0066,publicar,Criminologia > Etapas Evolutivas e Escolas Criminológicas,G1,0.909,0.83,Criminologia > Etapas Evolutivas e Escolas Criminológicas,0,1
+Q0067,revisar,Penal > Dos Crimes Contra a Administração Pública,G3,0.765,0.15,Penal > Dos Crimes Contra a Administração Pública > Concussão e Excesso de Exação,0,1
+Q0068,publicar,Penal > Dos Crimes Contra a Fé Pública e de Falsidade Documental,G1,0.874,0.78,Penal > Dos Crimes Contra a Fé Pública e de Falsidade Documental > Dos Crimes contra a Fé Pública,0,1
+Q0077,revisar,Direito Penal - Legislação Especial > Genocídio,G3,0.546,0.71,Penal > Lei Penal no Tempo e no Espaço > Conflito Aparente de Normas,0,0
+Q0079,revisar,Processo Penal > Sistemas e Princípios Processuais Penais > Sistemas Processuais Penais,G3,0.772,0.04,Processo Penal > Sistemas e Princípios Processuais Penais,0,1
+Q0080,publicar,Criminologia > Criminologia no Estado Democrático de Direito,G1,0.921,0.79,Criminologia > Criminologia no Estado Democrático de Direito,0,1
+Q0086,revisar,Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva,G3,0.432,0.11,Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva,0,1
+Q0087,revisar,Direito Penal - Legislação Especial > Lei de Execução Penal,G3,0.594,0.04,,1,0
+Q0090,revisar,Processo Penal > Ação Penal,G3,0.574,0.18,Processo Penal > Procedimento Ordinário,0,0
+Q0091,revisar,Penal > Teoria da Pena,G3,0.953,0.54,Direito Penal - Legislação Especial > Lei de Execução Penal,0,0
+Q0099,revisar,Penal > Das Lesões Corporais,G3,0.528,0.33,"Penal > Dos Crimes Contra a Administração Pública > Resistência, Desobediência e Desacato",0,0
+Q0103,revisar,Processo Penal > Ações Autônomas de Impugnação > Revisão Criminal,G3,0.547,0.19,Processo Penal > Ações Autônomas de Impugnação > Revisão Criminal,0,1
+Q0106,publicar,Penal > Dos Crimes Contra o Patrimônio,G1,0.892,0.86,Penal > Dos Crimes Contra o Patrimônio > Apropriação indébita,0,1
+Q0110,revisar,Processo Penal > Competência,G3,0.746,0.18,Processo Penal > Competência,0,1
+Q0111,revisar,Criminologia > Etapas Evolutivas e Escolas Criminológicas > Escolas Crimonológicas,G3,0.755,0.49,Criminologia > Etapas Evolutivas e Escolas Criminológicas,0,1
+Q0115,publicar,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,G1,0.913,0.91,Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie,0,1
+Q0117,revisar,Criminologia > Teorias Legitimidoras da Pena,G3,0.467,0.25,Criminologia > Teorias Legitimidoras da Pena,0,1
+Q0124,revisar,Criminologia > Teorias Legitimidoras da Pena,G3,0.609,0.25,Criminologia > Teorias Legitimidoras da Pena,0,1
+Q0134,publicar,Penal > Dos Crimes Contra a Administração Pública,G1,0.904,0.73,Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva,0,1
+Q0137,publicar,Processo Penal > Inquérito Policial,G2,0.988,,Processo Penal > Inquérito Policial,0,1
+Q0138,revisar,Penal > Teoria da Pena > Penas Restritivas de Direitos,G3,0.654,0.42,Processo Penal > Lei de Execução Penal,0,1
+Q0139,publicar,Penal > Teoria do Crime: Culpabilidade,G1,0.905,0.90,Penal > Teoria do Crime: Culpabilidade,0,1
+Q0144,revisar,Processo Penal > Procedimento do Tribunal do Júri,G3,0.530,0.75,Processo Penal > Procedimento do Tribunal do Júri,0,1
+Q0147,revisar,Processo Penal > Inquérito Policial,G3,0.733,0.49,Processo Penal > Inquérito Policial,0,1
+Q0150,revisar,Direito Penal - Legislação Especial > Tráfico de Drogas,G3,0.593,0.04,Direito Penal - Legislação Especial > Tráfico de Drogas,0,1
+Q0160,revisar,Penal > Teoria da Pena > Penas Restritivas de Direitos,G3,0.662,0.51,Penal > Teoria da Pena > Segunda Fase da Dosimetria: Agravantes e Atenuantes,0,1
+Q0167,revisar,Processo Penal > Procedimento do Tribunal do Júri,G3,0.620,0.13,Processo Penal > Procedimento do Tribunal do Júri,0,1
+Q0169,publicar,"Processo Penal > Das Questões e Processos Incidentes > Exceção de Suspeição, de Impedimento ou de Incompatibilidade",G1,0.929,0.75,"Processo Penal > Das Questões e Processos Incidentes > Exceção de Suspeição, de Impedimento ou de Incompatibilidade",0,1
+Q0179,publicar,Criminologia > Criminologia no Estado Democrático de Direito,G1,0.898,0.79,Criminologia > Criminologia no Estado Democrático de Direito,0,1
+Q0186,publicar,Penal > Teoria da Pena,G1,0.952,0.75,Penal > Teoria da Pena > Primeira Fase da Dosimetria: Circunstâncias Judiciais,0,1
+Q0188,revisar,Penal > Teoria do Crime: Ilicitude > Causas Supralegais de Exclusão da Ilicitude,G3,0.482,0.19,Penal > Teoria do Crime: Ilicitude,0,1
+Q0191,revisar,Processo Penal > Recursos em Espécies > Carta Testemunhavel,G3,0.535,0.26,Processo Penal > Recursos em Espécies,0,1
+Q0194,revisar,Penal > Dos Crimes Contra a Administração Pública,G3,0.638,0.78,Penal > Dos Crimes Contra a Administração Pública,0,1
+Q0201,revisar,Penal > Dos Crimes Contra a Dignidade Sexual > Estupro e Estupro de Vulnerável,G3,0.591,0.12,Penal > Dos Crimes Contra a Dignidade Sexual,0,1
+Q0202,publicar,Penal > Dos Crimes Contra a Dignidade Sexual > Outros Crimes Contra a Dignidade Sexual,G1,0.986,0.75,Penal > Teoria do Crime: Fato Típico > Erro de Tipo,0,0
+Q0208,revisar,Penal > Dos Crimes Contra a Vida > Homicídio,G3,0.623,0.15,Penal > Concurso de Pessoas > Autores e Partícipes,0,0
+Q0215,publicar,Penal > Teoria da Pena,G1,0.907,0.75,Penal > Teoria da Pena > Penas Privativas de Liberdade,0,1
+Q0216,revisar,Direito Penal - Legislação Especial > Juizado Especial Criminal,G3,0.637,0.15,Direito Penal - Legislação Especial > Juizado Especial Criminal,0,1
+Q0221,publicar,Penal > Teoria da Pena,G1,0.916,0.75,Penal > Teoria da Pena,0,1
+Q0226,revisar,Processo Penal > Provas em Espécies > Cadeia de Custódia,G3,0.507,0.18,Processo Penal > Provas em Espécies > Cadeia de Custódia,0,1
+Q0230,revisar,Penal > Teoria do Crime: Culpabilidade,G3,0.758,0.64,Penal > Teoria do Crime: Culpabilidade,0,1
+Q0231,publicar,Penal > Teoria do Crime: Fato Típico,G1,0.895,0.78,Penal > Teoria do Crime: Fato Típico > Erro de Tipo,0,1
+Q0240,revisar,Processo Penal > Inquérito Policial,G3,0.643,0.10,Processo Penal > Inquérito Policial,0,1
+Q0244,publicar,Penal > Dos Crimes Contra a Administração Pública,G1,0.921,0.75,Penal > Dos Crimes Contra a Administração Pública,0,1
+Q0245,revisar,Penal > Prescrição,G3,0.789,0.33,Penal > Prescrição,0,1
+Q0246,publicar,Processo Penal > Procedimento do Tribunal do Júri,G1,0.910,0.75,"Processo Penal > Procedimento do Tribunal do Júri > Impronúncia, Desclassificação, Absolvição Sumária e Pronúncia",0,1
+Q0249,revisar,Processo Penal > Sujeitos do Processo,G3,0.505,0.48,"Processo Penal > Das Questões e Processos Incidentes > Exceção de Suspeição, de Impedimento ou de Incompatibilidade",0,0
+Q0251,revisar,Penal > Punibilidade,G3,0.793,0.29,Penal > Punibilidade,0,1
+Q0252,revisar,Direito Penal - Legislação Especial > Lei de Execução Penal,G3,0.511,0.15,,1,0
+Q0253,revisar,Criminologia > Etapas Evolutivas e Escolas Criminológicas > Escolas Crimonológicas,G3,0.642,0.45,Criminologia > Etapas Evolutivas e Escolas Criminológicas,0,1
+Q0259,revisar,Penal > Dos Crimes Contra o Patrimônio > Furto,G3,0.571,0.53,Penal > Introdução ao Estudo do Direito Penal > Princípios do Direito Penal,0,0
+Q0265,revisar,Penal > Punibilidade,G3,0.563,0.66,Penal > Prescrição,0,0
+Q0274,publicar,Penal > Dos Crimes Contra o Patrimônio,G1,0.874,0.75,Penal > Iter Criminis > Crime Consumado e Tentado,0,1
+Q0275,revisar,Direito Penal - Legislação Especial > Juizado Especial Criminal,G3,0.613,0.08,Direito Penal - Legislação Especial > Juizado Especial Criminal,0,1
+Q0276,revisar,Processo Penal > Teoria Geral das Provas,G3,0.515,0.66,Processo Penal > Provas em Espécies > Busca e Apreensão,0,0
+Q0277,revisar,Direito Penal - Legislação Especial > Estaturo de Idoso - Crimes,G2,0.238,,Direito Penal - Legislação Especial > Estaturo de Idoso - Crimes,0,1
+Q0279,revisar,Processo Penal > Inquérito Policial,G3,0.531,0.75,Penal > Prescrição,0,0
+Q0286,revisar,Penal > Concurso de Pessoas > Participação,G3,0.499,0.12,Penal > Teoria da Pena > Primeira Fase da Dosimetria: Circunstâncias Judiciais,0,0
+Q0290,revisar,Processo Penal > Comunicação dos Atos Processuais,G3,0.521,0.33,Direito Penal - Legislação Especial > Juizado Especial Criminal,0,0
+Q0291,revisar,Processo Penal > Inquérito Policial,G3,0.909,0.31,,1,0
+Q0303,revisar,Penal > Lei Penal no Tempo e no Espaço,G3,0.705,0.33,,1,0
+Q0304,revisar,Direito Penal - Legislação Especial > Juizado Especial Criminal,G2,0.770,,Direito Penal - Legislação Especial > Juizado Especial Criminal,0,1
+Q0308,publicar,Processo Penal > Inquérito Policial,G1,0.896,0.75,Processo Penal > Inquérito Policial > Conclusão e Arquivamento do Inquérito Policial,0,1
+Q0311,publicar,Processo Penal > Comunicação dos Atos Processuais > Citação e Contagem dos Prazos,G1,0.912,0.83,Processo Penal > Comunicação dos Atos Processuais > Citação e Contagem dos Prazos,0,1
+Q0313,revisar,Processo Penal > Ação Penal > Ação Civil Ex Delicto,G3,0.540,0.45,Penal > Teoria da Pena > Efeitos da Condenação Penais e Extrapenais,0,0
+Q0314,revisar,Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus,G3,0.676,0.24,Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus,0,1
+Q0315,revisar,Penal > Prescrição,G3,0.541,0.15,Penal > Prescrição,0,1
+Q0316,revisar,Penal > Dos Crimes Contra a Vida > Infanticídio,G3,0.560,0.12,Penal > Teoria do Crime: Fato Típico > Erro de Tipo,0,0
+Q0319,revisar,Penal > Teoria do Crime: Fato Típico > Crimes Omissivos e Comissivos,G3,0.511,0.46,"Penal > Concurso de Pessoas > Autoria Mediata, Colateral e Coautoria",0,0
+Q0320,revisar,Processo Penal > Inquérito Policial,G3,0.542,0.66,Processo Penal > Provas em Espécies > Prova Testemunhal,0,0
+Q0323,revisar,Processo Penal > Teoria Geral das Provas,G3,0.629,0.28,Processo Penal > Teoria Geral das Provas > Princípios Relativos à Prova Penal,0,1
+Q0324,revisar,Penal > Teoria da Pena,G3,0.528,0.51,Direito Penal - Legislação Especial > Lei de Execução Penal,0,0
+Q0325,revisar,Processo Penal > Ação Penal,G3,0.675,0.21,Processo Penal > Ação Penal > Denúncia,0,1
+Q0336,publicar,Penal > Dos Crimes Contra o Patrimônio,G1,0.902,0.75,Penal > Dos Crimes Contra o Patrimônio > Furto,0,1
+Q0338,revisar,Processo Penal > Provas em Espécies > Exame de Corpo de Delito,G3,0.558,0.28,Processo Penal > Teoria Geral das Provas,0,0
+Q0339,revisar,Processo Penal > Sentença Penal,G3,0.462,0.19,Processo Penal > Sentença Penal,0,1
+Q0341,revisar,Penal > Dos Crimes Contra o Patrimônio,G3,0.846,0.12,Penal > Dos Crimes Contra o Patrimônio,0,1
+Q0345,revisar,Penal > Teoria do Crime: Fato Típico > Tipicidade,G2,0.615,,Penal > Dos Crimes Contra a Dignidade Sexual > Estupro e Estupro de Vulnerável,0,0
+Q0356,revisar,Penal > Concurso de Crimes,G3,0.664,0.10,Penal > Concurso de Crimes,0,1

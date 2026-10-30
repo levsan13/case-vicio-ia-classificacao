@@ -1,0 +1,30 @@
+# Nós da árvore que o sistema NÃO usa como destino de publicação (decisão manual, ver relatório §c).
+#
+# São nós ativos em temas.csv, mas:
+#  - têm id 67xx, nenhuma contagem de questões na descrição ("[?]") e nenhum filho, e
+#  - repetem o título de outro nó que tem filhos e histórico (ex.: "Teoria da Pena (Parte 2)" x "Teoria da Pena").
+# Publicar neles conta como erro quando a equipe usa o nó canônico (e vice-versa), então o sistema
+# concentra a decisão no nó canônico. Na folha-verdade só um deles aparece (6734, LEP em Processo Penal,
+# 2 vezes contra 4 de 4703); os demais nunca aparecem.
+#
+# formato: tema_id | canônico | motivo
+6716 | 4684 | Penal > Abuso de Autoridade duplica Legislação Especial > Abuso de Autoridade
+6717 | 4688 | Penal > Crimes contra o meio ambiente duplica Legislação Especial
+6718 | 5087 | "(Parte 1)" vazio; os subtemas estão sob 5087
+6719 | 5087 | "(Parte 2)" vazio; os subtemas estão sob 5087
+6720 | 5157 | "(Parte 1)" vazio; os subtemas estão sob 5157
+6721 | 5157 | "(Parte 2)" vazio; os subtemas estão sob 5157
+6722 | 4696 | Penal > Estatuto do Idoso duplica Legislação Especial
+6723 | 4702 | Penal > Lavagem de Dinheiro duplica Legislação Especial
+6724 | 4704 | Penal > Lei Maria da Penha duplica Legislação Especial
+6725 | 4705 | Penal > Organizações Criminosas duplica Legislação Especial
+6726 | 5199 | "(Parte 1)" vazio; os subtemas estão sob 5199
+6727 | 5199 | "(Parte 2)" vazio; os subtemas estão sob 5199
+6728 | 4708 | Penal > Tráfico de Drogas duplica Legislação Especial
+6732 | 5480 | "(Parte 1)" vazio; os subtemas estão sob 5480
+6733 | 5480 | "(Parte 2)" vazio; os subtemas estão sob 5480
+6734 | 4703 | Processo Penal > LEP duplica Legislação Especial > LEP (a equipe usa os dois; 4703 é o mais frequente)
+6735 | 5543 | "Provas em Espécie" duplica "Provas em Espécies" (que tem os subtemas)
+6736 | 5560 | "Recursos (Parte 03) - Espécies" duplica "Recursos em Espécies"
+6737 | 5572 | "(Parte 1)" vazio; os subtemas estão sob 5572
+6738 | 5572 | "(Parte 2)" vazio; os subtemas estão sob 5572

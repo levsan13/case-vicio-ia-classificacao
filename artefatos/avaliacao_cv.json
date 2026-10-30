@@ -1,0 +1,138 @@
+{
+ "acerto_top1_ramo": 0.712,
+ "grade_tau": [
+  {
+   "tau": 0.6,
+   "cobertura": 0.296,
+   "precisao": 0.932,
+   "confianca_media": 0.899,
+   "publicadas_por_repeticao": 29.6,
+   "erros": {
+    "Q0345": 5,
+    "Q0202": 5
+   }
+  },
+  {
+   "tau": 0.7,
+   "cobertura": 0.294,
+   "precisao": 0.939,
+   "confianca_media": 0.9,
+   "publicadas_por_repeticao": 29.4,
+   "erros": {
+    "Q0345": 4,
+    "Q0202": 5
+   }
+  },
+  {
+   "tau": 0.75,
+   "cobertura": 0.286,
+   "precisao": 0.965,
+   "confianca_media": 0.906,
+   "publicadas_por_repeticao": 28.6,
+   "erros": {
+    "Q0202": 5
+   }
+  },
+  {
+   "tau": 0.8,
+   "cobertura": 0.276,
+   "precisao": 0.964,
+   "confianca_media": 0.91,
+   "publicadas_por_repeticao": 27.6,
+   "erros": {
+    "Q0202": 5
+   }
+  },
+  {
+   "tau": 0.85,
+   "cobertura": 0.268,
+   "precisao": 0.963,
+   "confianca_media": 0.913,
+   "publicadas_por_repeticao": 26.8,
+   "erros": {
+    "Q0202": 5
+   }
+  },
+  {
+   "tau": 0.88,
+   "cobertura": 0.244,
+   "precisao": 0.959,
+   "confianca_media": 0.918,
+   "publicadas_por_repeticao": 24.4,
+   "erros": {
+    "Q0202": 5
+   }
+  },
+  {
+   "tau": 0.9,
+   "cobertura": 0.174,
+   "precisao": 0.943,
+   "confianca_media": 0.928,
+   "publicadas_por_repeticao": 17.4,
+   "erros": {
+    "Q0202": 5
+   }
+  },
+  {
+   "tau": 0.92,
+   "cobertura": 0.08,
+   "precisao": 0.875,
+   "confianca_media": 0.955,
+   "publicadas_por_repeticao": 8.0,
+   "erros": {
+    "Q0202": 5
+   }
+  },
+  {
+   "tau": 0.94,
+   "cobertura": 0.05,
+   "precisao": 0.8,
+   "confianca_media": 0.972,
+   "publicadas_por_repeticao": 5.0,
+   "erros": {
+    "Q0202": 5
+   }
+  }
+ ],
+ "tau_escolhido": 0.8,
+ "previsao": {
+  "n_avaliadas": 559,
+  "decisoes": {
+   "publicar": 217,
+   "revisar": 332,
+   "fora": 10
+  },
+  "cobertura": 0.388,
+  "precisao_esperada_pela_calibracao": 0.916,
+  "por_lote": {
+   "banco": {
+    "n": 259,
+    "publicadas": 55,
+    "cobertura": 0.212,
+    "confianca_media": 0.911
+   },
+   "novo": {
+    "n": 300,
+    "publicadas": 162,
+    "cobertura": 0.54,
+    "confianca_media": 0.918
+   }
+  },
+  "por_grupo": {
+   "G1": 214,
+   "G2": 3
+  },
+  "nivel_do_no_publicado": {
+   "1": 185,
+   "2": 32
+  },
+  "validacao_folha": {
+   "precisao_oof": 0.964,
+   "publicadas_por_repeticao": 27.6,
+   "intervalo_90_beta": [
+    0.845,
+    0.988
+   ]
+  }
+ }
+}

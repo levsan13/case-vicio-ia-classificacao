@@ -1,0 +1,32 @@
+{
+ "n_avaliadas": 559,
+ "decisoes": {
+  "publicar": 217,
+  "revisar": 332,
+  "fora": 10
+ },
+ "cobertura": 0.388,
+ "precisao_esperada_pela_calibracao": 0.916,
+ "por_lote": {
+  "banco": {
+   "n": 259,
+   "publicadas": 55,
+   "cobertura": 0.212,
+   "confianca_media": 0.911
+  },
+  "novo": {
+   "n": 300,
+   "publicadas": 162,
+   "cobertura": 0.54,
+   "confianca_media": 0.918
+  }
+ },
+ "por_grupo": {
+  "G1": 214,
+  "G2": 3
+ },
+ "nivel_do_no_publicado": {
+  "1": 185,
+  "2": 32
+ }
+}

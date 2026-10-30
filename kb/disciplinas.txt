@@ -1,0 +1,14 @@
+# disciplina_origem (como vem do site de origem) -> disciplinas da árvore compatíveis.
+# "primarias" valem 1 na feature de compatibilidade; "secundarias" valem 0,5; as demais 0.
+# Disciplina ausente da lista = desconhecida (feature neutra 0,5 para todos os nós).
+# "FORA" = disciplina sem nenhum ramo na árvore: a questão vai para `fora` por regra (decisão manual).
+#
+# formato: disciplina_origem | primarias (;) | secundarias (;)
+Direito Penal | Penal | Direito Penal - Legislação Especial
+Penal | Penal | Direito Penal - Legislação Especial
+Direito Penal - Legislação Especial | Direito Penal - Legislação Especial | Penal; Processo Penal
+Processo Penal | Processo Penal | Direito Penal - Legislação Especial
+Direito Processual Penal | Processo Penal | Direito Penal - Legislação Especial
+Criminologia | Criminologia |
+Direito Penal Militar | FORA |
+Direito Processual Penal Militar | FORA |

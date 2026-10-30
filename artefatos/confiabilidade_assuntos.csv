@@ -1,0 +1,232 @@
+assunto_origem_normalizado,n_questoes,concordancia_texto,n_rotuladas,r,temas_do_assunto
+concurso de crimes,44,0.09,10,0.14,Concurso de Crimes
+inquerito policial,26,0.69,4,0.53,Inquérito Policial
+acao penal,22,0.32,5,0.28,Ação Penal
+acao penal (parte 01),19,0.16,7,0.18,Ação Penal
+teoria da pena (parte 02),18,0.72,8,0.53,Teoria da Pena; Teorias Legitimidoras da Pena
+acao penal (parte 02),17,0.18,3,0.11,Ação Penal
+lei maria da penha - lei no 11.340 de 2006,16,0.94,0,0.86,Lei Maria da Penha
+comunicacao dos atos processuais,13,0.15,3,0.13,Comunicação dos Atos Processuais
+legislacao penal especial,13,0.00,2,0.03,
+"teorias criminologicas: escola de chicago - explicacao ecologica do crime, estrutural-funcionalistas, associacao diferencial, anomia, subcultura delinquente, critica ou radical, etiquetamento ou “labelling approach”.",11,0.36,0,0.31,Teorias Sociológicas Explicativas da Criminalidade
+teorias legitimidoras da pena,10,0.60,6,0.49,Teoria da Pena; Teorias Legitimidoras da Pena
+sistemas e principios processuais penais,10,0.10,3,0.23,Sistemas e Princípios Processuais Penais
+lesao corporal,9,0.33,1,0.33,Das Lesões Corporais
+crimes contra a administracao publica,9,0.78,1,0.87,Dos Crimes Contra a Administração Pública
+concurso de pessoas,9,0.78,3,0.71,Concurso de Pessoas; Política Criminal
+teoria do crime (ilicitude),8,0.25,2,0.42,Teoria do Crime: Fato Típico; Teoria do Crime: Ilicitude
+procedimento do juri,7,0.71,2,0.81,Procedimento do Tribunal do Júri
+iter criminis,7,0.71,1,0.66,Iter Criminis
+"crimes contra o consumidor, a ordem economica e tributaria – lei no 8.078 de 1990 e lei no 8.137 de 1990",7,0.14,0,0.29,Crimes previstos no CDC
+competencia (parte 02),6,0.33,3,0.33,Competência
+lei processual penal no tempo e no espaco,6,0.50,0,0.61,Lei Processual no Tempo e no Espaço
+culpabilidade,6,1.00,1,0.90,Teoria do Crime: Culpabilidade
+"ideologia e sistema penal: abolicionismo, minimalismo e garantismo. a nova defesa social. movimento de lei e ordem, tolerancia zero e estado de policia, tendencias securitaria, justicialista e belicista. direito penal do inimigo.",6,0.50,0,0.47,Etapas Evolutivas e Escolas Criminológicas; Política Criminal
+peculato,6,0.67,0,0.61,Dos Crimes Contra a Administração Pública
+conceitos gerais de criminologia,5,0.00,0,0.22,
+lei penal no espaco,5,0.80,0,0.72,Lei Penal no Tempo e no Espaço
+sentenca e coisa julgada,5,0.80,0,0.72,Das Questões e Processos Incidentes; Procedimento Ordinário; Sentença Penal
+procedimento comum sumarissimo - lei no 9.099 de 1995 - lei dos juizados especiais criminais - jecrim,5,1.00,0,0.88,Juizado Especial Criminal; Procedimento Ordinário; Procedimento Sumaríssimo
+prevaricacao,5,1.00,0,0.88,Dos Crimes Contra a Administração Pública
+lei penal no tempo,5,0.80,0,0.72,Lei Penal no Tempo e no Espaço
+teorias sociologicas explicativas da criminalidade,4,1.00,2,0.91,Teorias Sociológicas Explicativas da Criminalidade
+procedimento ordinario e sumario (parte 02),4,0.00,1,0.16,Procedimento Ordinário
+causas de extincao da punibilidade,4,1.00,0,0.86,Punibilidade
+criminologia no estado democratico de direito,4,0.75,2,0.79,Criminologia no Estado Democrático de Direito
+crimes contra o patrimonio,4,1.00,1,0.86,Dos Crimes Contra o Patrimônio
+punibilidade,4,0.50,2,0.57,Punibilidade
+"do juiz, do ministerio publico, do acusado e defensor, dos assistentes e auxiliares da justica",4,0.25,0,0.26,Sujeitos do Processo
+lei de organizacao criminosa – lei no 12.850 de 2013,4,1.00,0,0.86,Organizações Criminosas
+lei da lavagem de dinheiro - lei no 9.613 de 1998,4,1.00,0,0.86,Lavagem de Dinheiro
+denuncia e queixa,4,1.00,0,0.86,Ação Penal
+furto,4,1.00,0,0.86,Dos Crimes Contra o Patrimônio
+"das citacoes e intimacoes, citacao no processo penal",3,1.00,1,0.90,Comunicação dos Atos Processuais
+medida de seguranca,3,0.00,0,0.33,Medida de Segurança
+recursos criminais,3,0.00,1,0.33,Parte Geral dos Recursos
+etapas evolutivas e escolas criminologicas,3,1.00,1,0.83,Etapas Evolutivas e Escolas Criminológicas
+prescricao,3,0.33,1,0.76,Prescrição
+tipicidade,3,0.67,0,0.83,Teoria do Crime: Fato Típico
+teoria do crime (fato tipico) parte 02,3,1.00,0,0.83,Teoria do Crime: Fato Típico
+apelacao no processo penal,3,0.33,0,0.33,Recursos em Espécies
+"criminologia contemporanea: “bullying”, justica restaurativa e mediacao penal, justica terapeutica, justica instantanea, exame criminologico e reintegracao social. teorias da pena, reacao social e prevencao da criminalidade.",3,0.33,0,0.58,Competência; Criminologia no Estado Democrático de Direito; Dos Crimes Contra a Liberdade Pessoal; Lei de Execução Penal; Teoria da Pena; Teorias Legitimidoras da Pena; Teorias Sociológicas Explicativ
+das provas,3,0.67,0,0.58,Teoria Geral das Provas
+prova pericial e exame de corpo de delito,3,1.00,0,0.83,Provas em Espécies; Teoria Geral das Provas
+nocoes fundamentais,3,0.00,0,0.33,
+lei do colarinho branco - lei no 7.492 de 1986 - crimes contra o sistema financeiro nacional,3,0.67,0,0.58,Crimes contra o Sistema Financeiro
+prescricao. conceito e modalidades,3,0.67,0,0.83,Prescrição
+procedimento especial dos crimes praticados por servidores publicos contra a administracao em geral,3,0.33,0,0.58,Procedimento Ordinário
+corrupcao passiva,3,1.00,0,0.83,Dos Crimes Contra a Administração Pública
+roubo,2,1.00,0,0.78,Dos Crimes Contra o Patrimônio
+classificacao dos crimes,2,0.00,0,0.44,Introdução ao Estudo do Direito Penal
+corrupcao ativa,2,1.00,1,0.78,Dos Crimes Contra a Administração Pública
+crimes contra a fe publica,2,0.50,1,0.78,Dos Crimes Contra a Fé Pública e de Falsidade Documental
+teorias sociologicas explicativas da criminalidade (parte 02),2,1.00,0,0.78,Teorias Sociológicas Explicativas da Criminalidade
+"acao penal de iniciativa privada: definicao, principios e especies, acao penal",2,1.00,0,0.78,Ação Penal
+teoria do crime fato tipico parte 03,2,0.50,1,0.78,Teoria do Crime: Fato Típico
+"tipicidade, erro do tipo essencial",2,1.00,1,0.78,Teoria do Crime: Fato Típico
+tipo penal culposo,2,0.50,0,0.78,Teoria do Crime: Fato Típico
+teoria geral do delito,2,0.00,0,0.44,
+inimputabilidade pela embriaguez,2,1.00,0,0.78,Teoria do Crime: Culpabilidade
+nocoes gerais de crimes contra a administracao publica,2,1.00,0,0.78,Dos Crimes Contra a Administração Pública
+crimes contra as financas publicas,2,1.00,0,0.78,Dos Crimes contra as Finanças Públicas
+erro do tipo essencial,2,1.00,0,0.78,Teoria do Crime: Fato Típico
+habeas corpus no processo penal,2,1.00,0,0.78,Ações Autônomas de Impugnação
+acordo de nao persecucao penal,2,0.50,0,0.44,Inquérito Policial
+nexo de causalidade,2,1.00,0,0.78,Teoria do Crime: Fato Típico
+livramento condicional,2,1.00,0,0.78,Teoria da Pena
+procedimento especial dos crimes de competencia do tribunal do juri,2,1.00,0,0.78,Competência; Procedimento Ordinário; Procedimento do Tribunal do Júri
+outras falsidades,2,0.50,0,0.44,Dos Crimes Contra a Fé Pública e de Falsidade Documental
+ofendido e assistente de acusacao,2,1.00,0,0.78,Lei Maria da Penha; Sujeitos do Processo
+nocoes gerais da culpabilidade,2,0.50,0,0.44,Teoria do Crime: Culpabilidade
+condicoes para o exercicio da acao penal,2,1.00,0,0.78,Ação Penal
+"acao penal de iniciativa publica: definicao, principios e especies",2,0.50,0,0.44,Ação Penal
+exigibilidade de conduta diversa,2,0.50,0,0.44,Teoria do Crime: Culpabilidade; Teoria do Crime: Fato Típico
+inquerito policial - caracteristicas,2,1.00,0,0.78,Inquérito Policial
+procedimento penal,2,0.00,0,0.44,
+tipo penal doloso,2,1.00,0,0.78,Teoria do Crime: Fato Típico
+penas privativas de liberdade,2,1.00,0,0.78,Teoria da Pena
+consumacao e tentativa,2,1.00,0,0.78,Iter Criminis
+competencia no processo penal,2,0.50,0,0.44,Competência
+lei da interceptacao telefonica - lei no 9.296 de 1996,2,0.50,0,0.44,Interceptação Telefônica; Provas em Espécies
+prova testemunhal,2,0.50,0,0.78,Provas em Espécies; Teoria Geral das Provas
+crimes resultantes de preconceito de raca ou cor – lei no 7.716 de 1989,2,0.00,0,0.44,
+teoria da pena,2,0.50,0,0.44,Teoria da Pena; Teorias Legitimidoras da Pena
+acao penal - nocoes gerais,2,1.00,0,0.78,Ação Penal
+da prisao preventiva,2,0.50,0,0.44,Prisões em Espécie; Teoria Geral das Prisões
+citacao no processo penal,2,1.00,0,0.78,Comunicação dos Atos Processuais
+"teorias criminologicas: delito como eleicao, predisposicoes agressivas, behaviorista, tecnicas de neutralizacao, janelas quebradas e reacao social.",2,1.00,0,0.78,Crimes Eleitorais; Política Criminal; Teorias Sociológicas Explicativas da Criminalidade
+fixacao do regime inicial da pena privativa de liberdade,1,1.00,1,0.75,Teoria da Pena
+"sistemas de investigacao, investigacao preliminar: juiz das garantias",1,1.00,0,0.75,Inquérito Policial
+medidas socioeducativas,1,0.00,0,0.75,
+especies de medida de seguranca,1,1.00,1,0.75,Medida de Segurança
+"tipo penal doloso, tipicidade",1,1.00,0,0.75,Teoria do Crime: Fato Típico
+"das provas, das citacoes e intimacoes, confissao no processo penal",1,1.00,0,0.75,Comunicação dos Atos Processuais; Provas em Espécies; Teoria Geral das Provas
+"concussao e excesso de exacao , crimes contra a administracao publica",1,1.00,0,0.75,Dos Crimes Contra a Administração Pública
+"tipicidade, crimes contra a vida",1,1.00,1,0.75,Dos Crimes Contra a Vida; Teoria do Crime: Fato Típico
+"procedimento penal, procedimento comum sumarissimo - lei no 9.099 de 1995 - lei dos juizados especiais criminais - jecrim",1,1.00,0,0.75,Juizado Especial Criminal; Procedimento Ordinário; Procedimento Sumaríssimo
+"conceitos e caracteres, nocoes fundamentais",1,0.00,0,0.75,
+vitimologia,1,1.00,0,0.75,Vitimologia
+nulidades no processo penal,1,0.00,0,0.75,Nulidades
+competencia (parte 01),1,1.00,0,0.75,Competência
+"outras falsidades, crimes contra a fe publica",1,1.00,0,0.75,Dos Crimes Contra a Fé Pública e de Falsidade Documental
+"principios fundamentais do direito processual penal, do juiz, do ministerio publico, do acusado e defensor, dos assistentes e auxiliares da justica",1,0.00,0,0.75,Sujeitos do Processo
+"participacao, autoria e coautoria, concurso de pessoas",1,1.00,0,0.75,Concurso de Pessoas; Política Criminal
+impostos estaduais,1,0.00,0,0.75,
+"recursos criminais, apelacao no processo penal",1,1.00,1,0.75,Parte Geral dos Recursos; Recursos em Espécies
+teoria da pena (parte 01),1,1.00,0,0.75,Teoria da Pena; Teorias Legitimidoras da Pena
+"das questoes e processos incidentes, suspeicao e impedimento",1,1.00,1,0.75,Das Questões e Processos Incidentes
+"corrupcao passiva, concussao e excesso de exacao , crimes contra a administracao publica",1,1.00,0,0.75,Dos Crimes Contra a Administração Pública
+"legislacao penal especial, lei de armas (estatuto do desarmamento) – lei no 10.826 de 2003 e decretos regulamentares",1,1.00,0,0.75,Estatuto do Desarmamento
+"das provas, inadmissibilidade das provas obtidas por meios ilicitos, busca e apreensao",1,0.00,0,0.75,Provas em Espécies; Teoria Geral das Provas
+primeira fase da dosimetria,1,1.00,1,0.75,Teoria da Pena
+rito sumarissimo,1,1.00,0,0.75,Procedimento Sumaríssimo
+concussao e excesso de exacao,1,1.00,0,0.75,Dos Crimes Contra a Administração Pública
+favorecimento de prostituicao ou outra forma de exploracao sexual de vulneravel,1,1.00,1,0.75,Dos Crimes Contra a Dignidade Sexual
+"legislacao penal especial, lei de toxicos – lei no 11.343 de 2006",1,0.00,0,0.75,
+das questoes e processos incidentes,1,1.00,0,0.75,Das Questões e Processos Incidentes
+"penas privativas de liberdade, regimes penitenciarios",1,1.00,1,0.75,Teoria da Pena
+"diferencas entre reclusao e detencao, sancoes penais, penas privativas de liberdade",1,1.00,1,0.75,Teoria da Pena
+"crimes contra a administracao publica, denunciacao caluniosa",1,1.00,0,0.75,Dos Crimes Contra a Administração Judicial; Dos Crimes Contra a Administração Pública
+"crimes contra a administracao publica, concussao e excesso de exacao",1,1.00,1,0.75,Dos Crimes Contra a Administração Pública
+"teoria geral do delito, tipicidade",1,1.00,0,0.75,Teoria do Crime: Fato Típico
+"procedimento especial da lei no 11.343 de 2006, procedimento penal",1,0.00,0,0.75,Procedimento Ordinário
+introducao ao estudo de direito penal,1,0.00,0,0.75,Introdução ao Estudo do Direito Penal
+"corrupcao ativa, corrupcao passiva, peculato",1,1.00,0,0.75,Dos Crimes Contra a Administração Pública
+"roubo, crimes contra o patrimonio",1,0.00,1,0.75,Dos Crimes Contra o Patrimônio
+"causas de extincao da punibilidade, crimes contra o patrimonio, desistencia voluntaria e arrependimento eficaz",1,1.00,1,0.75,Dos Crimes Contra o Patrimônio; Iter Criminis; Punibilidade
+politica criminal,1,1.00,0,0.75,Política Criminal
+"crimes contra a administracao publica, favorecimento pessoal",1,1.00,0,0.75,Dos Crimes Contra a Administração Judicial; Dos Crimes Contra a Administração Pública
+crimes contra a paz publica,1,1.00,0,0.75,Dos Crimes Contra a Saúde Pública e Dos Crimes Contra à Paz Pública
+"inquerito policial, encerramento do inquerito policial",1,1.00,1,0.75,Inquérito Policial
+sistema de responsabilizacao por ilicitos ambientais,1,0.00,0,0.75,
+procedimento ordinario,1,0.00,0,0.75,Procedimento Ordinário
+"classificacao dos crimes, teoria geral do delito",1,1.00,0,0.75,Introdução ao Estudo do Direito Penal
+"crimes contra o patrimonio, furto",1,1.00,1,0.75,Dos Crimes Contra o Patrimônio
+crime continuado,1,1.00,0,0.75,Concurso de Crimes
+crimes contra a inviolabilidade de segredos,1,1.00,0,0.75,Dos Crimes Contra a Liberdade Pessoal
+"conceito, objeto (delito, delinquente e vitima), metodo, origem e historia da criminologia.",1,0.00,0,0.75,Etapas Evolutivas e Escolas Criminológicas
+nocoes gerais antijuridicidade,1,1.00,0,0.75,Teoria do Crime: Ilicitude
+causas de extincao da punibilidade - nocoes gerais,1,1.00,0,0.75,Punibilidade
+segunda fase da dosimetria.,1,1.00,0,0.75,Teoria da Pena
+procedimento comum ordinario,1,1.00,0,0.75,Procedimento Ordinário
+"da liberdade provisoria, com ou sem fianca",1,1.00,0,0.75,Prisões em Espécie
+"definicao, contextualizacao, objetivos e normatividade fundamental",1,0.00,0,0.75,
+moeda falsa,1,1.00,0,0.75,Dos Crimes Contra a Fé Pública e de Falsidade Documental
+causas relativamente independentes,1,1.00,0,0.75,Teoria do Crime: Fato Típico
+revisao criminal,1,1.00,0,0.75,Ações Autônomas de Impugnação
+arrependimento posterior,1,1.00,0,0.75,Iter Criminis
+efeitos secundarios de natureza penal e de natureza extrapenal,1,0.00,0,0.75,
+restituicao de coisas apreendidas,1,1.00,0,0.75,Das Questões e Processos Incidentes
+contrabando,1,1.00,0,0.75,Dos Crimes Contra a Administração Pública
+desobediencia,1,1.00,0,0.75,Dos Crimes Contra a Administração Pública
+crimes contra o servico militar e o dever militar,1,0.00,0,0.75,
+inquerito policial militar - ipm,1,1.00,0,0.75,Inquérito Policial
+retratacao do agente,1,0.00,0,0.75,Punibilidade
+efeitos civis da absolvicao penal,1,1.00,0,0.75,Sentença Penal
+nocoes gerais de concursos de pessoas,1,1.00,0,0.75,Concurso de Pessoas; Política Criminal
+falsidade de documento publico,1,1.00,0,0.75,Dos Crimes Contra a Fé Pública e de Falsidade Documental; Provas em Espécies
+classificacao de acao penal,1,1.00,0,0.75,Ação Penal
+prescricao da pretensao executoria,1,1.00,0,0.75,Prescrição
+apuracao dos danos,1,0.00,0,0.75,Dos Crimes Contra o Patrimônio
+legitima defesa,1,0.00,0,0.75,Teoria do Crime: Ilicitude
+recursos especial e extraordinario em materia penal,1,1.00,0,0.75,Parte Geral dos Recursos; Recursos em Espécies
+principios limitadores do poder punitivo estatal,1,0.00,0,0.75,
+crimes contra a saude publica,1,1.00,0,0.75,Dos Crimes Contra a Saúde Pública e Dos Crimes Contra à Paz Pública
+modificacao ou alteracao nao autorizada de sistemas de informacoes,1,1.00,0,0.75,Dos Crimes Contra a Administração Pública
+questoes prejudiciais,1,1.00,0,0.75,Das Questões e Processos Incidentes
+fuga de pessoa presa ou submetida a medida de seguranca. evasao mediante violencia contra a pessoa,1,1.00,0,0.75,Dos Crimes Contra a Administração Judicial; Medida de Segurança; Política Criminal; Teoria Geral das Prisões
+noticia-crime e instauracao,1,0.00,0,0.75,
+"definicao, sistemas e alternativas",1,0.00,0,0.75,
+medidas assecuratorias e preventivas,1,0.00,0,0.75,Das Questões e Processos Incidentes; Prisões em Espécie
+substituicao - concessao.,1,0.00,0,0.75,
+lei processual penal no tempo,1,1.00,0,0.75,Lei Processual no Tempo e no Espaço
+embargos infringentes e embargos de nulidade,1,0.00,0,0.75,Nulidades; Recursos em Espécies
+emprego irregular de verbas ou rendas publicas,1,1.00,0,0.75,Dos Crimes Contra a Administração Pública
+recurso em sentido estrito,1,1.00,0,0.75,Parte Geral dos Recursos; Recursos em Espécies
+usurpacao de funcao publica,1,1.00,0,0.75,Dos Crimes Contra a Administração Pública; Dos Crimes Contra o Patrimônio
+jurisdicao penal: definicao e principios,1,1.00,0,0.75,Competência
+acao penal nos crimes contra a honra,1,1.00,0,0.75,Ação Penal; Dos Crimes Contra a Honra
+desacato,1,1.00,0,0.75,Dos Crimes Contra a Administração Pública
+principios em materia recursal,1,0.00,0,0.75,
+prescricao no concurso de crimes,1,0.00,0,0.75,Concurso de Crimes; Prescrição
+sancoes penais,1,1.00,0,0.75,Teoria da Pena
+peculato mediante erro de outrem,1,1.00,0,0.75,Dos Crimes Contra a Administração Pública
+crimes contra a organizacao do trabalho,1,1.00,0,0.75,"Dos Crimes contra a Organização do Trabalho, a Propriedade Imaterial e ao Sentimento Religioso"
+competencia em razao da pessoa: o foro por prerrogativa de funcao,1,1.00,0,0.75,Competência; Política Criminal
+subtracao ou inutilizacao de livro ou documento. sonegacao de contribuicao previdenciaria,1,1.00,0,0.75,Crimes Tributários; Provas em Espécies
+crimes plurissubsistentes e unissubsistentes,1,1.00,0,0.75,Introdução ao Estudo do Direito Penal
+condescendencia criminosa,1,1.00,0,0.75,Dos Crimes Contra a Administração Pública
+carta testemunhavel,1,1.00,0,0.75,Recursos em Espécies
+dano,1,1.00,0,0.75,Dos Crimes Contra o Patrimônio
+ampla defesa,1,1.00,0,0.75,Sistemas e Princípios Processuais Penais
+reducao a condicao analoga a de escravo,1,1.00,0,0.75,Dos Crimes Contra a Liberdade Pessoal
+contraditorio,1,1.00,0,0.75,Sistemas e Princípios Processuais Penais
+falsidade de titulos e outros papeis publicos,1,1.00,0,0.75,Dos Crimes Contra a Fé Pública e de Falsidade Documental
+"crimes comuns, proprios e de mao propria",1,0.00,0,0.75,Introdução ao Estudo do Direito Penal
+lei de armas (estatuto do desarmamento) – lei no 10.826 de 2003 e decretos regulamentares,1,1.00,0,0.75,Estatuto do Desarmamento
+"definicao, normas fundamentais, pressupostos e requisitos",1,0.00,0,0.75,
+interrogatorio,1,1.00,0,0.75,Provas em Espécies
+desistencia voluntaria e arrependimento eficaz,1,1.00,0,0.75,Iter Criminis
+da prisao e da liberdade provisoria,1,1.00,0,0.75,Prisões em Espécie; Teoria Geral das Prisões
+estado de necessidade,1,1.00,0,0.75,Teoria do Crime: Ilicitude
+inquerito policial - nocoes gerais,1,1.00,0,0.75,Inquérito Policial
+acao penal militar,1,1.00,0,0.75,Ação Penal
+diferencas entre reclusao e detencao,1,1.00,0,0.75,Teoria da Pena
+sonegacao de papel ou objeto de valor probatorio. exploracao de prestigio,1,0.00,0,0.75,Crimes Tributários; Dos Crimes Contra a Administração Judicial
+falsidade ideologica,1,1.00,0,0.75,Dos Crimes Contra a Fé Pública e de Falsidade Documental
+disposicoes comuns,1,0.00,0,0.75,
+erro de tipo acidental,1,1.00,0,0.75,Teoria do Crime: Fato Típico
+lei processual penal no espaco,1,0.00,0,0.75,Lei Processual no Tempo e no Espaço
+crimes de perigo comum,1,1.00,0,0.75,Dos Crimes Contra a Incolumidade Pública; Introdução ao Estudo do Direito Penal
+"modelos teoricos da criminologia: classico, neoclassico, positivista e moderno. escolas da criminologia: classica, positiva, “terza scuola” italiana, tecnico-juridica e sociologica alema.",1,1.00,0,0.75,Etapas Evolutivas e Escolas Criminológicas
+estelionato,1,1.00,0,0.75,Dos Crimes Contra o Patrimônio
+das citacoes e intimacoes,1,1.00,0,0.75,Comunicação dos Atos Processuais
+lei dos crimes de tortura – lei no 9.455 de 1997,1,1.00,0,0.75,Tortura
+tipicidade formal,1,1.00,0,0.75,Teoria do Crime: Fato Típico
+conflito aparente de normas,1,1.00,0,0.75,Lei Penal no Tempo e no Espaço
+imputacao objetiva,1,1.00,0,0.75,Teoria do Crime: Fato Típico
+crimes militares em tempo de guerra,1,0.00,0,0.75,Competência
+procedimento comum sumario,1,1.00,0,0.75,Procedimento Ordinário
+"juiz, auxiliares e partes no processo penal militar",1,1.00,0,0.75,Sujeitos do Processo
+"viveiros de castro, hungria, roberto lyra, tobias barreto e outros: criminologia no brasil.",1,0.00,0,0.75,
+lei do abuso de autoridade – lei no 4.898 de 1965 e lei n  13.869 de 2019,1,1.00,0,0.75,Abuso de Autoridade

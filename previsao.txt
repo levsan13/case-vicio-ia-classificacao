@@ -1,0 +1,40 @@
+precisao_prevista: 0.94   # fração das publicadas que estará certa
+precisao_intervalo: 0.88-0.98
+cobertura_prevista: 0.39  # fração das questões que você publicou
+cobertura_intervalo: 0.38-0.40
+
+Como cheguei nesses números (escritos antes de conhecer o resultado; reproduzíveis com `python run.py`,
+que grava os cálculos em artefatos/avaliacao_cv.json e artefatos/previsao_calculada.json).
+
+COBERTURA
+A cobertura não é estimada: é contada. Das 559 questões fora da folha-verdade, o publicacao.csv publica
+217 (0,388), deixa 332 para revisão e manda 10 para `fora` (as 10 de Direito Penal Militar / Processual
+Penal Militar, ramos que não existem na árvore). O intervalo 0,38-0,40 só cobre arredondamento e alguma
+diferença de definição (por exemplo, se as `fora` saírem do denominador, a cobertura vira 217/549 = 0,395).
+Por lote: 55 de 259 do banco (21%) e 162 de 300 da importação nova (54%).
+
+PRECISÃO
+Três evidências, que não concordam perfeitamente:
+
+1) Validação cruzada aninhada na folha-verdade (10 dobras x 5 repetições; o ranqueador E a calibração
+   são ajustados sem a dobra avaliada). Com a regra final (τ = 0,80, só grupos G1/G2), o sistema publica
+   27,6 das 100 questões por repetição e acerta 96,4%. O único erro, em todas as repetições, é a Q0202
+   (cenário de favorecimento da prostituição; a equipe rotulou o conceito testado, erro de tipo).
+   Isso é ~1 erro em ~28: intervalo de credibilidade 90% (Beta) de 0,85 a 0,99. Amostra pequena.
+
+2) A própria calibração: a confiança média das 217 publicadas é 0,916. A calibração é ajustada em todos
+   os pares fora-da-dobra (inclusive os de confiança mais baixa e os de subtema), então é um pouco
+   pessimista para o subconjunto que passa no limiar; a evidência (1) sugere que o real fica acima.
+
+3) Mudança de distribuição. 75% das publicadas (162 de 217) vêm da importação nova (Q0360+), que não tem
+   nenhuma questão na folha-verdade. Lá o assunto de origem é bem mais específico (estilo "Peculato",
+   "Lei Maria da Penha - Lei nº 11.340 de 2006") e a confiabilidade dele foi medida só pela concordância
+   com o texto, sem rótulo. O risco principal é o mesmo da Q0202: o site de origem e o texto concordarem
+   entre si e a equipe usar outra convenção (tema do conceito x tema do crime; nós duplicados entre
+   Legislação Especial e Penal/Processo Penal). Não há como medir isso sem rótulos do lote novo.
+
+Combinei (1) e (2) num ponto de 0,94 e alarguei o intervalo para baixo por causa de (3): 0,88-0,98.
+Ou seja: espero ficar perto da régua de 95%, com chance real (estimo ~40%) de ficar abaixo dela. Não
+subi o limiar para "comprar" margem porque, na validação, limiares maiores não aumentam a precisão (a
+Q0202 tem confiança alta); só reduzem a cobertura. O que reduziria esse risco de verdade está no
+relatório: 30-50 rótulos da importação nova e uma decisão da equipe sobre os nós duplicados.
